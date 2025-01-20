@@ -27,8 +27,7 @@ ORGANIZACION = {"imagenes": [".jpg", ".jpeg", ".png", ".gif", ".drawio"],
                 "java": [".jar", ".java"],
                 "c#": [".cs"],
                 "3d": [".stl", ".obj", ".fbx"],
-                "borrar": [".nbt", ".gexf", ".log", ".properties", ".dat", ".toml"],
-                
+                "borrar": [".nbt", ".gexf", ".log", ".properties", ".dat", ".toml"],              
                 
                 }
 
